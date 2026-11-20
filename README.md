@@ -4,7 +4,7 @@
 
 Arabic-first, responsive, interactive design prototype for the Dingo time-investment marketplace. The prototype is a front-end design exploration, **not a deployed multiuser SaaS**.
 
-## Quick start · طريقة التشغيل
+## Quick start · 
 
 **Recommended:** unzip the folder, then from inside `dingo-mvp` run:
 
@@ -20,7 +20,7 @@ You can also open `index.html` directly in a browser, but using a local server i
 
 **Note:** Internet access is optional. Google Fonts loads when network is available; system fonts are used when offline.
 
-## Screens / الشاشات
+## Screens 
 
 | URL hash | Design screen | Interaction |
 |---|---|---|
